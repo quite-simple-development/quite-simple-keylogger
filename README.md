@@ -3,3 +3,6 @@ Bu proje grafik arayüzlü bir klavye veya fare dinleyicisi uygulamasını konu 
 Kullanıcı pencereyi kapamadığı sürece program çalışmaya devam eder. Başlat ve Durdur tuşlarıyla dinleme sürece başlar veya durdurulur. Dinleme
 başladığında kullanıcının klavye veya fare eylemleri bir Log.txt dosyasına kaydedilir ve bu dosya aralıklı bir şekilde kullanıcının pencereye
 girdiği mailler aracıyla göndericiden alıcı maile aktarılır.
+
+## NOT:
+Bu proje tüm grup tarafından local olarak geliştirilip tamamlandıktan sonra bir üye tarafından github'a yüklenmiştir.
