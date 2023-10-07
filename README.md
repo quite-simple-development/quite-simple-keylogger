@@ -1,8 +1,21 @@
-## Proje Özeti
-Bu proje grafik arayüzlü bir klavye veya fare dinleyicisi uygulamasını konu alır. Uygulama grafiksel arayüze sahiptir, bir pencereden oluşur.
-Kullanıcı pencereyi kapamadığı sürece program çalışmaya devam eder. Başlat ve Durdur tuşlarıyla dinleme sürece başlar veya durdurulur. Dinleme
-başladığında kullanıcının klavye veya fare eylemleri bir Log.txt dosyasına kaydedilir ve bu dosya aralıklı bir şekilde kullanıcının pencereye
-girdiği mailler aracıyla göndericiden alıcı maile aktarılır.
+# Quite Simple Keylogger
+A graphical mouse-keyboard listener/keylogger written in Java.
 
-## NOT:
-Bu proje tüm grup tarafından local olarak geliştirilip tamamlandıktan sonra bir üye tarafından github'a yüklenmiştir.
+## Project Summary
+This is a mouse-keyboard input listener which sends emails to the user's email repeatedly with the time interval user pleases.
+The input is stored in a Log.txt file which should not be modified while the user starts the listening process.
+
+## Installation
+```
+git clone https://github.com/quite-simple-development/quite-simple-keylogger.git
+```
+
+## Running the program
+```
+cd quite-simple-keylogger
+java -jar quite-simple-keylogger.jar
+```
+
+## Local Collabarators:
+[@AhmetOytun](https://github.com/AhmetOytun)
+[@battista26](https://github.com/battista26)
